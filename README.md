@@ -5,7 +5,7 @@ This repository contains all the tasks I completed during my internship, showcas
 
 ---
 
-## 📋 Task List
+## 📋 Task 1
 
 ### ✅ Task 1: TO-DO LIST
 A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project includes:
